@@ -14,7 +14,7 @@ in `coverage.json`; Mexican descriptions and duties come from
 Python 3.12 or newer and the standard library are all you need. From a clone:
 
 ```sh
-python3 -m unittest                  # 44 tests on the committed fixtures, no network
+python3 -m unittest                  # the tests, on the committed fixtures, no network
 ```
 
 With [uv](https://docs.astral.sh/uv/) the same commands run as `uv run python -m unittest` and
@@ -39,7 +39,7 @@ Settings, all optional:
 | `TIGIE_RELEASE_URL` | `release_url` in the manifest | base URL of the tigie-nico-mx release assets |
 | `USITC_RELEASE_LIST_URL` | `https://hts.usitc.gov/reststop/releaseList` | `latest-us` |
 | `USITC_HTS_FILE_URL` | `https://www.usitc.gov/sites/default/files/tata/hts/hts_{year}_revision_{revision}_{kind}` | `pin-us` |
-| `HSX_USER_AGENT` | `hs-crosswalk-us-mx/<version>` | the User-Agent of downloads |
+| `HSX_USER_AGENT` | Python's own (`Python-urllib/3.x`) | the User-Agent of downloads; the USITC file host refuses some unfamiliar agents |
 
 The fixture build that CI runs, with no network:
 

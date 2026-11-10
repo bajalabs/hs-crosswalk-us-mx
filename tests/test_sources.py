@@ -1,10 +1,12 @@
 """The committed manifest and the hash check on downloads (no network: file:// URLs)."""
 
+import os
 import re
 import shutil
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 from hs_crosswalk import sources
 
@@ -31,6 +33,17 @@ class ManifestTests(unittest.TestCase):
         for f in files.values():
             self.assertTrue(f["sha256"] is None or HEX64.match(f["sha256"]))
         self.assertTrue(m["mx_tigie"]["release_url"].startswith("https://"))
+
+
+class RequestTests(unittest.TestCase):
+    def test_python_user_agent_is_kept_by_default(self):
+        with mock.patch.dict(os.environ, {}, clear=False):
+            os.environ.pop("HSX_USER_AGENT", None)
+            self.assertIsNone(sources.request("https://example.org/").get_header("User-agent"))
+
+    def test_user_agent_can_be_set(self):
+        with mock.patch.dict(os.environ, {"HSX_USER_AGENT": "tester/1"}):
+            self.assertEqual(sources.request("https://example.org/").get_header("User-agent"), "tester/1")
 
 
 class DownloadTests(unittest.TestCase):

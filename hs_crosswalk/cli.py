@@ -72,8 +72,7 @@ def cmd_fetch_mx(args: argparse.Namespace) -> int:
 
 def _release_list() -> list[dict]:
     url = os.environ.get("USITC_RELEASE_LIST_URL") or DEFAULT_RELEASE_LIST
-    req = urllib.request.Request(url, headers={"User-Agent": sources.user_agent()})
-    with urllib.request.urlopen(req, timeout=60) as resp:
+    with urllib.request.urlopen(sources.request(url), timeout=60) as resp:
         return json.load(resp)
 
 

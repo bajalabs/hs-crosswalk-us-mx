@@ -9,12 +9,9 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
-from . import __version__
-
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MANIFEST = REPO_ROOT / "manifests" / "sources.json"
 DEFAULT_CACHE = Path("data") / "sources"
-DEFAULT_USER_AGENT = f"hs-crosswalk-us-mx/{__version__}"
 MX_SUBDIR = "tigie-nico-mx"
 
 
@@ -30,8 +27,11 @@ def cache_dir() -> Path:
     return Path(os.environ.get("HSX_CACHE_DIR") or DEFAULT_CACHE)
 
 
-def user_agent() -> str:
-    return os.environ.get("HSX_USER_AGENT") or DEFAULT_USER_AGENT
+def request(url: str) -> urllib.request.Request:
+    """A GET request. Python's own User-Agent is kept unless HSX_USER_AGENT is set:
+    the USITC file host refuses some unfamiliar agents."""
+    agent = os.environ.get("HSX_USER_AGENT")
+    return urllib.request.Request(url, headers={"User-Agent": agent} if agent else {})
 
 
 def load_manifest(path: Path | None = None) -> dict:
@@ -63,7 +63,7 @@ def download(url: str, dest: Path, sha256: str | None, timeout: float = 300) -> 
     if sha256 and dest.is_file() and sha256_file(dest) == sha256:
         return sha256, dest.stat().st_size
     tmp = dest.with_name(dest.name + ".part")
-    req = urllib.request.Request(url, headers={"User-Agent": user_agent()})
+    req = request(url)
     h = hashlib.sha256()
     size = 0
     try:
