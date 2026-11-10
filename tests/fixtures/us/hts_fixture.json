@@ -1,0 +1,1955 @@
+[
+ {
+  "htsno": "0101",
+  "indent": "0",
+  "description": "Live horses, asses, mules and hinnies:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Horses:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.21.00",
+  "indent": "2",
+  "description": "Purebred breeding animals",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.21.00.10",
+  "indent": "3",
+  "description": "Males",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.21.00.20",
+  "indent": "3",
+  "description": "Females",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.29.00",
+  "indent": "2",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.29.00.10",
+  "indent": "3",
+  "description": "Imported for immediate slaughter",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.29.00.90",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.30.00.00",
+  "indent": "1",
+  "description": "Asses",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "6.8%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "15%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.90",
+  "indent": "1",
+  "description": "Other:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.90.30.00",
+  "indent": "2",
+  "description": "Imported for immediate slaughter",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0101.90.40.00",
+  "indent": "2",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "4.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "20%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802",
+  "indent": "0",
+  "description": "Other nuts, fresh or dried, whether or not shelled or peeled:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Almonds:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.11.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "7.7¢/kg",
+  "special": "Free (A+,AU,BH, CL,CO,D,E,IL, JO,KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "12.1¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.12.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [],
+  "general": "24¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "40.8¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.12.00.05",
+  "indent": "3",
+  "description": "Certified organic",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.12.00.15",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Hazelnuts or filberts (Corylus spp.):",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.21.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "7¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.22.00.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "14.1¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "22¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Walnuts:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.31.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "7¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.32.00.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "26.5¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33.1¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Chestnuts (Castanea spp.):",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.41.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.42.00.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Pistachios:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.51.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "0.9¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.52.00.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.9¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Macadamia nuts:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.61.00.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.3¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.62.00.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "5¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Kola nuts (Cola spp.):",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.70.10.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.3¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.70.20.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "5¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Areca nuts:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.80.10.00",
+  "indent": "2",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.3¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.80.20.00",
+  "indent": "2",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "5¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.91",
+  "indent": "2",
+  "description": "Pine nuts, in shell:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.91.10.00",
+  "indent": "3",
+  "description": "Pignolia",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "0.7¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.91.90.00",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.3¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.92",
+  "indent": "2",
+  "description": "Pine nuts, shelled:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.92.10.00",
+  "indent": "3",
+  "description": "Pignolia",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.92.90.00",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "5¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.99",
+  "indent": "2",
+  "description": "Other:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Pecans:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.99.10.00",
+  "indent": "4",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "8.8¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.99.15.00",
+  "indent": "4",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "17.6¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "22¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.99.82.00",
+  "indent": "4",
+  "description": "In shell",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "1.3¢/kg",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "5.5¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "0802.99.98.00",
+  "indent": "4",
+  "description": "Shelled",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "5¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "11¢/kg",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3407",
+  "indent": "0",
+  "description": "Modeling pastes, including those put up for children's amusement; preparations known as \"dental wax\" or as \"dental impression compounds\", put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulfate):",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3407.00.20.00",
+  "indent": "1",
+  "description": "Modeling pastes, including those put up for children's amusement",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3407.00.40.00",
+  "indent": "1",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3821.00.00",
+  "indent": "0",
+  "description": "Prepared culture media for development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells",
+  "superior": null,
+  "units": [],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL, JO,KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3821.00.00.10",
+  "indent": "2",
+  "description": "Viral transport media",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "3821.00.00.90",
+  "indent": "2",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101",
+  "indent": "0",
+  "description": "Wrist watches, pocket watches and other watches, including stop watches, with case of precious metal or of metal clad with precious metal:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Wrist watches, electrically operated, whether or not incorporating a stop watch facility:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.11",
+  "indent": "2",
+  "description": "With mechanical display only:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.11.40",
+  "indent": "3",
+  "description": "Having no jewels or only one jewel in the movement",
+  "superior": null,
+  "units": [],
+  "general": "51¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.11.80",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "87¢ each + 6.25% on the case and strap, band or bracelet + 5.3% on the battery",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19",
+  "indent": "2",
+  "description": "Other:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.20",
+  "indent": "3",
+  "description": "With opto-electronic display only.",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Straps, bands or bracelets entered with watches of subheading 9101.19.20 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.20.20",
+  "indent": "5",
+  "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.20.40",
+  "indent": "5",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.20.80",
+  "indent": "4",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.40",
+  "indent": "3",
+  "description": "Other, having no jewels or only one jewel in the movement",
+  "superior": null,
+  "units": [],
+  "general": "41¢ each + 5% on case and strap, band or bracelet + 4.2% on the battery",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.19.80",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "61¢ each + 4.4% on case and strap, band or bracelet + 3.7% on the battery",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other wrist watches, whether or not incorporating a stop watch facility:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.21",
+  "indent": "2",
+  "description": "With automatic winding:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Having over 17 jewels in the movement:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Straps, bands or bracelets entered with watches of subheading 9101.21.50 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.21.10.00",
+  "indent": "5",
+  "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "3.1%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "80%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.21.30.00",
+  "indent": "5",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "3.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "80%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.21.50",
+  "indent": "4",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$11.50 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.21.80",
+  "indent": "3",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "$1.61 each + 4.4% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "$5.75 each + 45% on the case +80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29",
+  "indent": "2",
+  "description": "Other:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.10",
+  "indent": "3",
+  "description": "Having no jewels or only one jewel in the movement",
+  "superior": null,
+  "units": [],
+  "general": "40¢ each + 5% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "$2.25 each + 45% on the case +80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.20",
+  "indent": "3",
+  "description": "Having over 1 jewel but not over 7 jewels in the movement",
+  "superior": null,
+  "units": [],
+  "general": "61¢ each + 4.4% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "$3.25 each + 45% on the case +80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Having over 7 jewels but not over 17 jewels in the movement:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "With movement valued not over $15 each",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.30",
+  "indent": "5",
+  "description": "With movement measuring not over 15.2 mm",
+  "superior": null,
+  "units": [],
+  "general": "$2.28 each + 5% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.40",
+  "indent": "5",
+  "description": "With movement measuring over 15.2 mm",
+  "superior": null,
+  "units": [],
+  "general": "$1.92 each + 5% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.50",
+  "indent": "4",
+  "description": "With movement valued over $15 each",
+  "superior": null,
+  "units": [],
+  "general": "90¢ each + 4.4% on the case and strap, band or bracelet",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "$4.75 each + 45% on the case + 80% on the strap, band or bracelet",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Having over 17 jewels in the movement:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Straps, bands or bracelets entered with watches of subheading 9101.29.90 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.70.00",
+  "indent": "5",
+  "description": "Of textile material or of base metal, whether or not gold- or silver-plated",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "3.1%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL,JO,KR,MA, OM,P, PA,PE,R,S,SG)",
+  "other": "80%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.80.00",
+  "indent": "5",
+  "description": "Other",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "3.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "80%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.29.90",
+  "indent": "4",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$11.50 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.91",
+  "indent": "2",
+  "description": "Electrically operated:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.91.20.00",
+  "indent": "3",
+  "description": "With opto-electronic display only",
+  "superior": null,
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.91.40",
+  "indent": "4",
+  "description": "Having no jewels or only one jewel in the movement",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$2.25 each + 45% on the case + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.91.80",
+  "indent": "4",
+  "description": "Other",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$3.25 each + 45% on the case + 35% on the battery",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.99",
+  "indent": "2",
+  "description": "Other:",
+  "superior": null,
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": "",
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.99.20",
+  "indent": "3",
+  "description": "Having no jewels or not over 7 jewels in the movement",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$2.25 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Having over 7 but not over 17 jewels in the movement:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.99.40",
+  "indent": "4",
+  "description": "With movement valued not over $15 each",
+  "superior": null,
+  "units": [],
+  "general": "98¢ each + 3% on the case",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "$4.75 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.99.60",
+  "indent": "4",
+  "description": "With movement valued over $15 each",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$4.75 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9101.99.80",
+  "indent": "3",
+  "description": "Having over 17 jewels in the movement",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "$11.50 each + 45% on the case",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10",
+  "indent": "0",
+  "description": "Products of the United States when returned after having been exported, or any other products when returned within 3 years after having been exported, without having been advanced in value or improved in condition by any process of manufacture or other means while abroad",
+  "superior": null,
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.10",
+  "indent": "1",
+  "description": "Articles previously exported with intent to reimport after temporary use abroad",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.12",
+  "indent": "1",
+  "description": "Articles returned temporarily for repair, alteration, processing or the like, the foregoing to be reexported",
+  "superior": null,
+  "units": [
+   ""
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "units"
+    ],
+    "marker": "1",
+    "value": " The quantities reported should be in the units provided in chapters 1-97. ",
+    "type": "footnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.15",
+  "indent": "2",
+  "description": "Meat and poultry products provided for in chapter 2 or 16",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.26",
+  "indent": "2",
+  "description": "Peanuts provided for in heading 1202",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.27",
+  "indent": "2",
+  "description": "Articles provided for in chapter 28",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9801.00.10.28",
+  "indent": "2",
+  "description": "Articles provided for in chapter 30",
+  "superior": null,
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [],
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "0",
+  "description": "Articles the product of France, of Germany, of Spain or of the United Kingdom: [Compiler's note: Duties suspended except on certain goods entered from foreign trade zones.]",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9903.89.05",
+  "indent": "1",
+  "description": "New airplanes and other new aircraft, as defined in U.S. note 21(b) to this subchapter (other than military airplanes or other military aircraft), of an unladen weight exceeding 30,000 kg (described in statistical reporting numbers 8802.40.0040, 8802.40.0060 or 8802.40.0070)",
+  "superior": null,
+  "units": [],
+  "general": "The duty provided in the applicable subheading + 15%",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "value": " See chapter 99 statistical note 1. ",
+    "type": "footnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9903.89.07",
+  "indent": "1",
+  "description": "Airplanes and other aircraft, of an unladen weight exceeding 15,000 kg (provided for in subheading 8802.40.00), the foregoing not described in subheading 9903.89.05",
+  "superior": null,
+  "units": [],
+  "general": "The duty provided in the applicable subheading",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "value": " See chapter 99 statistical note 1. ",
+    "type": "footnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "",
+  "indent": "0",
+  "description": "Articles the product of Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or the United Kingdom: [Compiler's note: Duties suspended except on certain goods entered from foreign trade zones.]",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": null,
+  "quotaQuantity": null,
+  "additionalDuties": null,
+  "addiitionalDuties": null
+ },
+ {
+  "htsno": "9903.89.10",
+  "indent": "1",
+  "description": "Provided for in the subheadings enumerated in U.S. note 21(c) to this subchapter",
+  "superior": null,
+  "units": [],
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "value": " See chapter 99 statistical note 1. ",
+    "type": "footnote"
+   }
+  ],
+  "quotaQuantity": null,
+  "additionalDuties": "",
+  "addiitionalDuties": null
+ }
+]

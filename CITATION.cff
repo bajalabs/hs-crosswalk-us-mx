@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "hs-crosswalk-us-mx: the US Harmonized Tariff Schedule joined with Mexico's TIGIE at HS-6"
+abstract: >-
+  The current Harmonized Tariff Schedule of the United States (HTSUS) as clean open
+  files with its indent hierarchy, rates as published and footnotes, joined with
+  Mexico's tariff (TIGIE fracciones and NICOs) at the shared 6-digit Harmonized
+  System subheading. A match means the same international subheading, not
+  equivalent national lines or duties.
+authors:
+  - name: "Baja Labs"
+version: "1.0.0"
+license:
+  - CC0-1.0
+  - MIT
+repository-code: "https://github.com/bajalabs/hs-crosswalk-us-mx"
+keywords:
+  - HTSUS
+  - TIGIE
+  - NICO
+  - Harmonized System
+  - tariff
+  - customs
+  - United States
+  - Mexico
+  - crosswalk
+references:
+  - type: data
+    title: "Harmonized Tariff Schedule of the United States (2026) Revision 22"
+    authors:
+      - name: "United States International Trade Commission"
+    date-released: "2026-10-30"
+    url: "https://www.usitc.gov/harmonized_tariff_information/hts/archive/list"
+  - type: data
+    title: "tigie-nico-mx"
+    authors:
+      - name: "Baja Labs"
+    repository-code: "https://github.com/bajalabs/tigie-nico-mx"

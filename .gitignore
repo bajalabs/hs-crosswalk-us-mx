@@ -1,0 +1,14 @@
+# Build outputs and downloaded sources never enter git: they are release assets.
+dist/
+data/
+*.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and systems
+.DS_Store
+.idea/
+.vscode/

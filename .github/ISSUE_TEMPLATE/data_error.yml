@@ -1,0 +1,51 @@
+name: Data error report
+description: A code, title, rate, unit, footnote or match in the published files looks wrong.
+labels: [data]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please point at the official text that shows the error: the USITC HTSUS revision for US lines, or the
+        Diario Oficial de la Federación / TIGIE for Mexican lines. Fixes to Mexican descriptions or duties belong
+        upstream in tigie-nico-mx; we will move the report there if needed.
+  - type: dropdown
+    id: file
+    attributes:
+      label: File
+      options:
+        - us_hts.csv
+        - hs6.csv
+        - crosswalk.csv
+        - coverage.json / coverage_by_chapter.csv
+        - hs-crosswalk-us-mx.sqlite
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Release
+      description: The release tag, or the `us_release` and `mx_release` values in coverage.json.
+    validations:
+      required: true
+  - type: input
+    id: codes
+    attributes:
+      label: Code(s)
+      description: The US HTS number(s) and/or Mexican fracción/NICO code(s).
+      placeholder: 0101.21.00.10, 0101210100
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+      description: What the file says and what it should say.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Official source
+      description: Link or reference to the official text that supports the correction.
+    validations:
+      required: true

@@ -1,0 +1,22 @@
+[project]
+name = "hs-crosswalk-us-mx"
+version = "1.0.0"
+description = "The US Harmonized Tariff Schedule as open files, joined with Mexico's TIGIE at the shared 6-digit HS level."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE", "LICENSE-DATA"]
+authors = [{ name = "Baja Labs" }]
+keywords = ["htsus", "hts", "tigie", "nico", "harmonized-system", "tariff", "customs", "mexico", "united-states", "open-data"]
+classifiers = [
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+  "Intended Audience :: Developers",
+  "Natural Language :: English",
+  "Natural Language :: Spanish",
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/bajalabs/hs-crosswalk-us-mx"
+Issues = "https://github.com/bajalabs/hs-crosswalk-us-mx/issues"

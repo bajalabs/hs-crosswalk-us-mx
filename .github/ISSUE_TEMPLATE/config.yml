@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/bajalabs/hs-crosswalk-us-mx/security/advisories/new
+    about: Use GitHub private vulnerability reporting; please do not open a public issue.

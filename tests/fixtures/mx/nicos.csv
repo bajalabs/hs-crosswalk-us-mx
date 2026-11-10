@@ -1,0 +1,14 @@
+fraccion,nico,codigo,descripcion,alta,baja,nota
+01012101,00,0101210100,Reproductores de raza pura.,2020-12-28,,sintetico
+01012999,01,0101299901,Para abasto.,2020-12-28,,sintetico
+01012999,99,0101299999,Los demás.,2020-12-28,,sintetico
+01019099,00,0101909900,Los demás.,2020-12-28,,sintetico
+03011101,00,0301110100,De agua dulce.,2020-12-28,,sintetico
+08021101,00,0802110100,Con cáscara.,2020-12-28,,sintetico
+08021201,00,0802120100,Sin cáscara.,2020-12-28,,sintetico
+34070001,00,3407000100,"Pastas para modelar, incluidas las presentadas para entretenimiento de los niños.",2020-12-28,,sintetico
+38210001,01,3821000101,Medios de transporte viral.,2022-12-12,,sintetico
+38210001,98,3821000198,Clave dada de baja (ilustrativo).,2020-12-28,2022-12-11,sintetico
+38210001,99,3821000199,Los demás.,2020-12-28,,sintetico
+91011101,00,9101110100,Con indicador mecánico solamente.,2020-12-28,,sintetico
+98010001,00,9801000100,Operaciones especiales (ilustrativo).,2020-12-28,,sintetico

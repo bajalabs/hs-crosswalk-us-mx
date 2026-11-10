@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "us_hts": {
+    "publisher": "United States International Trade Commission",
+    "title": "Harmonized Tariff Schedule of the United States (2026) Revision 22",
+    "release": "2026HTSRev22",
+    "published": "2026-10-30",
+    "archive": "https://www.usitc.gov/harmonized_tariff_information/hts/archive/list",
+    "rights": "Work of the United States Government; not subject to copyright in the United States (17 U.S.C. 105).",
+    "retrieved": "2026-11-10",
+    "rows": 35805,
+    "files": {
+      "json": {
+        "name": "hts_2026_revision_22_json.json",
+        "url": "https://www.usitc.gov/sites/default/files/tata/hts/hts_2026_revision_22_json.json",
+        "sha256": "c2b51667fd9dcf04f3428ac41789392db23e86ed773abba78a5038881c70a478",
+        "bytes": 12642116
+      },
+      "csv": {
+        "name": "hts_2026_revision_22_csv.csv",
+        "url": "https://www.usitc.gov/sites/default/files/tata/hts/hts_2026_revision_22_csv.csv",
+        "sha256": "5a67dd45ac02b26e32e55ad520f6515ab9131bc4f961a8ab661757db2b80c5a2",
+        "bytes": 3957696
+      }
+    }
+  },
+  "mx_tigie": {
+    "publisher": "Baja Labs, tigie-nico-mx (compiled from Mexico's Tarifa de la Ley de los Impuestos Generales de Importacion y de Exportacion and its NICO annex)",
+    "repository": "https://github.com/bajalabs/tigie-nico-mx",
+    "release": "v1.0.0",
+    "release_url": "https://github.com/bajalabs/tigie-nico-mx/releases/download/v1.0.0",
+    "rights": "Mexican legal texts carry no copyright (Ley Federal del Derecho de Autor, art. 14, fr. VIII); compilation CC0-1.0.",
+    "files": {
+      "subpartidas": {
+        "name": "subpartidas.csv",
+        "member": "csv/subpartidas.csv",
+        "sha256": "5e8a8b4e8c306b5ff81b94d4a9eee42829e90b0334984f77878ae495c1a48403",
+        "bytes": 391621,
+        "rows": 5619
+      },
+      "fracciones": {
+        "name": "fracciones.csv",
+        "member": "csv/fracciones.csv",
+        "sha256": "3d2f946b76f243947cc58e86a78851255a2e9e532cf24ef1b48a58ae73815db9",
+        "bytes": 936520,
+        "rows": 8183
+      },
+      "nicos": {
+        "name": "nicos.csv",
+        "member": "csv/nicos.csv",
+        "sha256": "190fb939be4369beb6031ccacf32bfa574d805a9d58bf9e0b94b369249253b67",
+        "bytes": 2576769,
+        "rows": 11528
+      }
+    },
+    "asset": {
+      "name": "tigie-nico-mx-csv.zip",
+      "sha256": "f9a23648c3d66c1daf5fb296331a25e414228e56ce83bd106a539274871e7718",
+      "bytes": 901542
+    },
+    "retrieved": "2026-11-10"
+  }
+}
